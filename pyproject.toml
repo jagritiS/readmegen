@@ -1,5 +1,5 @@
 [project]
-name = "auto-readme"
+name = "auto-readme-jagriti"
 version = "0.1.0"
 description = "CLI tool to generate README.md files automatically"
 authors = [

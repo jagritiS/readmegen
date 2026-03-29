@@ -17,7 +17,7 @@ A simple and powerful command-line tool to generate professional `README.md` fil
 ##  Installation
 
 ```bash
-pip install readmegen
+pip install auto-readme-jagriti
 ```
 
 ---
