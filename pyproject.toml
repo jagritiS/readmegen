@@ -1,0 +1,12 @@
+[project]
+name = "auto-readme"
+version = "0.1.0"
+description = "CLI tool to generate README.md files automatically"
+authors = [
+  { name="Jagriti Srivastava" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+
+[project.scripts]
+readmegen = "readmegen.main:main"
